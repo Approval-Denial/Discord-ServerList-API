@@ -24,7 +24,7 @@ A powerful and comprehensive Discord server listing platform built with NestJS. 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/approva-denial/discord-server-list-api.git
+git clone https://github.com/Approval-Denial/Discord-ServerList-API.git
 cd discord-server-list-api
 ```
 
