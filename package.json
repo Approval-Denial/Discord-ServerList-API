@@ -1,10 +1,10 @@
 {
   "name": "discord-server-list-bot-api",
   "version": "0.0.1",
-  "description": "A powerful Discord bot API and server listing platform built with NestJS",
+  "description": "A powerful Discord bot API and server listing platform built with NestJS. Features include server management, authentication, rate limiting, and comprehensive API endpoints for Discord server listings.",
   "author": "",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "GPL-3.0",
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
