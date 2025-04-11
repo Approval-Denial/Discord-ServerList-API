@@ -239,4 +239,5 @@ This project is licensed under the GNU General Public License v3.0 (GPL-3.0) - s
 
 ## Support
 
+[![Discord Banner](https://api.weblutions.com/discord/invite/approval/)](https://discord.gg/approval)
 [![Discord Banner](https://api.weblutions.com/discord/invite/luppux/)](https://discord.gg/luppux)
